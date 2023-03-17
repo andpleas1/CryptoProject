@@ -1,4 +1,4 @@
-# Projects participated during development ( EVM | SOLANA | COSMOS )
+# Projects participated during development<br /> ( EVM | SOL | BSC | COSMOS | NEAR )
 
 Here are the projects I've participated so far.
 
