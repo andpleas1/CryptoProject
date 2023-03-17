@@ -1,61 +1,25 @@
-# Blockchain Projects: (Solana / Ethereum / Binance - EVM / NEAR)
+# Projects in which I participated during developmen ( EVM | SOLANA | COSMOS )
 
-As you can see here, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
+Here are the projects I've participated so far.
 
-<!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
+Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategies. These strategies aim to maximize capital efficiency, reduce the cost of emissions, or maintain consistent in-range liquidity with low price impact.
 
-Multiple Factor Rewards Staking program for Shred NFT collections
-
-- Staking Link: <a href="https://www.shreddedapes-staking.io" target="_blank">Shredded Staking</a>
-  - By staking Shredded Ape, you are sending him to our private gym on the moon. For each day your ape is working out, he'll be getting a paid in $WHEY. It's up to you to decide for how long you want to send your apes to the gym - you can cancel the staking and receive earned rewards at any given time.
-  - AMOUNT EARNED: 10 $WHEY / Ape staked / Day. Staking 3 or more apes will multiply the amount of $WHEY earned by x1.25
-- Original Link: <a href="https://shreddedapes.io" target="_blank">Shredded Apes<a/>
-- Github repo: <a href="https://github.com/best-lucky1030/Shred_NFT_Staking" target="_blank">Shred_NFT_Staking</a>
-
-<h3><u><strong><i>Goblin Army</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Stake Goblin NFTs on Solana using Rust/React and Web3. Staked NFTs are locked in 15 days.
-
-- Staking Link: <a href="https://stake.goblinarmy.io" target="_blank">Staking Goblin</a>
-- Original Link: <a href="https://goblinarmy.io" target="_blank">Goblin Army</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Goblin-Solana-NFT-Staking" target="_blank">Goblin-Solana-NFT-Staking</a>
-  
-<h3><u><strong><i>BarnYard</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Solana Multi Collection NFT staking
-
-- Staking Link: <a href="https://barnyard-staking.vercel.app/" target="_blank">Barnyard Staking</a>
-  - Farmers and animals will act as multipliers for token generation when staking. Rarity of your NFTs, and amount staked will affect the multiplier!
-  - you will be able to stake your farm (at least one NFT from each collection) to start earning our project's own token($WHEAT) which will be used for gameplay in season 2. The more quantity of farmers/animals as well as higher rarities will generate you more tokens.
-  - Staking will be limited to 3 farmers and 3 animals per land plot.
-  - You will need to pay a 20% tax on each harvest to the bandits to harvest your wheat, or you can risk harvesting all your wheat (with a chance to lose all to bandits) but you will need to have staked for at least 3 days.
-- Original Link: <a href="https://www.bcbarnyard.info/" target="_blank">BarnYard</a>
-- Github repo: <a href="https://github.com/best-lucky1030/BCBY-NFT-staking" target="_blank">BCBY Staking</a> -->
-
-
-
-
-
-
-
-
-<h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Gamma Finance</i></strong></u> &nbsp;(ETHEREUM)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
 
-This is one kind of Sol Crash game. 🚕 Instead of that, the transparent is Taxi. 😜.
+A protocol for active liquidity management and market making strategies. 😜.
 
 Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
 
-- Live: <a href="https://degentaxi.io">Degen Taxi</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/best-lucky1030/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/best-lucky1030/degen-taxi-frontend">degen-taxi-frontend</a>
+USDC-DAI 0.01% at an emissions rate of 396.8 OP / day for two weeks
+WETH-USDC 0.05% at an emissions rate of 396.8 OP / day for two weeks
+WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks
+...
+
+- Live: <a href="https://gamma.xyz">Gamma Finance</a>
+- Github: <a href="https://github.com/GammaStrategies">Gamma Finance Github</a>
 
 
 
@@ -70,7 +34,7 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 - Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
 
-
+useless dog resist alarm mechanic imitate radio idle web iron rubber town
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
 <hr />
@@ -391,3 +355,4 @@ Now I am working on this project and we are releasing this in Apirl.
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
 - Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
+
