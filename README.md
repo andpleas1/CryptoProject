@@ -1,4 +1,4 @@
-# Projects in which I participated during developmen ( EVM | SOLANA | COSMOS )
+# Projects participated during development ( EVM | SOLANA | COSMOS )
 
 Here are the projects I've participated so far.
 
@@ -7,15 +7,15 @@ Managing liquidity of leading DeFi and Web3 protocols using tailor-made strategi
 <h3><u><strong><i>Gamma Finance</i></strong></u> &nbsp;(ETHEREUM)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/224244632-4cedc247-8749-4df8-9828-526eff6199c0.png">
+<img align="right" width="300px" src="https://i.ibb.co/LNvzw0Q/Gamma-landing.png">
 
 A protocol for active liquidity management and market making strategies. 😜.
 
 Degen Taxi proves that the odds are as advertised (5% house edge) and that the rolls are predetermined and cannot react to how players bet. For more detailed information on the concept of 'Provably Fair' you can always check here. This project includes 3 parts, smart contract, back-end, and front-end integration.
 
-USDC-DAI 0.01% at an emissions rate of 396.8 OP / day for two weeks
-WETH-USDC 0.05% at an emissions rate of 396.8 OP / day for two weeks
-WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks
+USDC-DAI 0.01% at an emissions rate of 396.8 OP / day for two weeks<br />
+WETH-USDC 0.05% at an emissions rate of 396.8 OP / day for two weeks<br />
+WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks<br />
 ...
 
 - Live: <a href="https://gamma.xyz">Gamma Finance</a>
@@ -23,57 +23,46 @@ WETH-DAI 0.3% at an emissions rate of 396.8 OP / day for two weeks
 
 
 
-<h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(SOLANA)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+<img align="right" width="300px" src="https://i.ibb.co/9gys29s/Hubble-Landing.png">
 
-This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount. This project includes smart contract, back-end, and front-end integration.
+Supercharge Your Liquidity On Solana
+Mint USDH against multiple types of collateral. Repay whenever you want.
 
-- Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
-- Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
-- Github repo: <a href="https://github.com/best-lucky1030/coin-flip-solkitty">coin-flip-solkitty</a>
+- Live: <a href="https://www.hubbleprotocol.io/">Hubble Protocol</a>
+- Github: <a href="https://github.com/hubbleprotocol">Hubble Protocol Github</a>
 
-useless dog resist alarm mechanic imitate radio idle web iron rubber town
 
-<h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
+<h3><u><strong><i>Rowship</i></strong></u> &nbsp;(ETHEREUM)</h3>
 <hr />
 
 This is mint website on avalanche network. I used Solidity(ERC 721) to write smart contract and Node/Express, MongoDB to make leaderboard page, and Next.js in front-end side. Mint supply is 500 NFTs.
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/209906661-40d7a303-d0ae-4bf8-a3ca-b159927d72ab.png">
+<img align="right" width="300px" src="https://i.ibb.co/6FY1xCn/rowship1.png">
 
-- Demo: <a href="https://avalanche-nft-mint.vercel.app">Plunder The Void</a>
-- Live: <a href="https://plunderthevoid.io">Plunder The Void</a>
-  - Functionality
-    - 500 NFTs
-    - Mint price is 100 USDC
-    - Need to put discord Name or Id
-    - Avalanche network
-- Testnet deployed contract address: <a href="https://testnet.snowtrace.io/address/0x80EEE1615feeD9c03aEbe94dCA6aDF1680cd41C6#code">Testnet contract</a>
-- Mainnet deployed contract address: <a href="">Mainnet contract</a>
-- Github repo:
-  - Contract: <a href="https://github.com/best-lucky1030/dale-mint-contract-avax">dale-mint-contract-avax</a>
-  - Backend: <a href="https://github.com/best-lucky1030/dale-mint-backend-avax">dale-mint-backend-avax</a>
-  - Frontend: <a href="https://github.com/best-lucky1030/dale-mint-frontend-avax">dale-mint-frontend-avax</a>
+Supercharge Your Liquidity On Solana<br />
+Mint USDH against multiple types of collateral. Repay whenever you want.<br />
 
-<h3><u><strong><i>Burning Masked Ape Dao</i></strong></u> &nbsp;(Solana)</h3>
+- Live: <a href="https://rowship.com/">Rowship</a>
+
+
+<h3><u><strong><i>Privi Protocol</i></strong></u> &nbsp;(ETHERUM | BSC | POLKADOT)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/183006431-97bdc41e-8b25-4f13-b260-098d948d2853.png">
+<img align="right" width="300px" src="https://i.ibb.co/b5LT7C3/Privi-apps.png">
 
-This is burning mechanism to burn NFTs have no metadata in Masked Ape collection. Max burn per wallet per day would be 1 burn to prevent whales easily hoarding MAD tokens by burning blank NFTs.
+The Worlds First Dapp Store
 
-- Demo: <a href="https://burning-masked-ape.vercel.app">Burning Masked Ape</a>
-- Live: <a href="https://maskedapedao.com">Bruning_Masked_Ape_DAO</a>
-  - Functionality
-    - 848 Masked Apes have missing attributes, we want a dApp to burn them for $MAD tokens. (eg. blank attributes Masked Ape
-    - We will deposit 8,480,000 $MAD in a vault so users can burn and receive 10,000 $MAD tokens.
-    - Users can burn nft has no metadata.
-- $MAD tokens contract: <a href="https://solscan.io/token/GkXn6PUbcvpwAzVCgJFychVhAhjwZRMJWmtqzar3SnqG">$MAD token</a>    
-- Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
-- Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Burning_Masked_Ape">Burning_Masked_Ape</a>
+Pix: Pix is an NFT dapp that helps NFT collectors get the most out of their NFTs. Whether it is through collateralized loans, rent/borrow or reserve to buy later functions, Pix aims to help NFT owners to maximize their NFT utility without needing to sell it. Explore and create NFTs across Ethereum and Polygon on Pix. <br />
+Trax: Trax is a music protocol that is at the edge of the Web3 music space. Trax aims to aggregate all web3 music from Ethereum and Polygon into one solution to listen to and have fans discover new artists.<br />
+Juice: Juice is an app that allows projects to sell tokens with derivative functions. By selling novel scope tokens, which limit the price fluctuations for community members, projects can give extra rewards and align incentives for long term goals.<br />
+
+- Live: <a href="https://priviprotocol.io/">Privi Protocol</a>
+- Store: <a href="https://www.privi.store/#/zoo">Privi Protocol Store</a>
+
+
 
 <h3><u><strong><i>BASC NFT Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -103,31 +92,6 @@ A member will have 3 options to choose from for staking: (1) stake a Baby Ape, (
 - Offical Links: <a href="https://www.babyapesocialclub.com">BASC (Baby Ape Social Club)</a>
 - Github Repo: <a href="https://github.com/best-lucky1030/BASC-NFT-Staking">BASC-NFT-Staking</a>
 
-<h3><u><strong><i>Astronaut NFT Staking -> YAKU Hub</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/222485565-17b0577f-4dc3-4e35-b1b0-033569bd19bc.png">
-
-Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨🏿‍🚀 NFT collections.
-
-- Demo: <a href="http://astronaut-nft-staking-death.vercel.app">Astronaut Staking</a>
-- Live: <a href="https://minxlabs.io/cosmicastro/staking">cosmicastro NFT Staking </a> &nbsp;Moved here: <a href="https://hub.yaku.ai/yaku/staking">Yaku Staking</a>
-  - Model 1: 
-    - If you claim before 15 days, you will receive 75% and after 15 days, will receive 100%.
-      - Adventurer: 20 $coin a day 
-      - Scientist: 25 $coin a day 
-      - Doctor: 30 coin a day 
-      - Mission Specialist: 35 $coin a day 
-      - Commander: 40 $coin a day
-  - Model 2
-    - Rewards are paid daily and they are the same for all NFTS, so x $coin a day for everything
-  - Model 3 
-    - 7 days x $coin, 14 days 1.5x $coin, 30 days+ 2x $coin
-- Official Links:
-  - Website: <a href="https://www.cosmicastronauts.com">Cosmic Astronaut</a>
-  - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
-  - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
 
 <h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -164,27 +128,6 @@ Staking an SPL token "FLWR"
 
 <h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
 <hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/196169486-e51ed813-aa69-4318-ba04-cf010d488b4a.png">
-
-This is the raffle project that winners can receive the raffle NFT by buying tickets. You can buy tickets by $Sol and various tokens($FLWR, $SHDW, $DUST, $BOLT).
-
-- Link: <a href="http://raffle-auction-brains.vercel.app">Sol Flowers Raffle</a>
-- Live Link: <a href="https://raffle.solflowers.io/raffle">Sol Flowers | Raffle</a>
-  - Payment method
-    - $SOL, $FLWR, $SHDW, $DUST, $BOLT
-  - Reward Type
-    - Receive NFT, WL spots(max: 50)
-- Offical Links:
-  - Website: <a href="https://www.solflowers.io">SOL Flowers</a>
-  - Twitter: <a href="https://twitter.com/solflowers_io">Sol flowers</a>
-  - Magic Eden: <a href="https://magiceden.io/creators/sol_flowers">Magic Eden link</a>
-  - White Paper: <a href="https://www.solflowers.io/src/assets/files/Whitepaper.pdf">White Paper</a>
-  - Staking: <a href="https://flwrstaking.solflowers.io">Flower Staking</a>
-  - Game: <a href="https://drobro.io">Game</a>
-  - Buy $Flwr <a href="https://raydium.io/swap/?from=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&to=FLWRna1gxehQ9pSyZMzxfp4UhewvLPwuKfdUTgdZuMBY">Buy $Flwr</a>
-  - Farm $Flwr <a href="https://raydium.gitbook.io/raydium/yield-farming/raydium-farms">Farm $Flwr</a>
-- Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-brains-">Sol flowers raffle</a>
 
 
 <h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
@@ -226,47 +169,6 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://metakongz-staking.vercel.app" target="_blank">MetaKongz Staking</a>
 - Github repo: <a href="https://github.com/best-lucky1030/raffle-auction-prospect3" target="_blank">raffle-auction-prospect3</a>
 
-<h3><u><strong><i>Apex Raffle House</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using $PREY and $SOL.
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/171998195-6616ae2e-90a8-44e4-946f-65f49e25ff20.png">
-
-- Demo: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
-- Live: <a href="http://apex-raffle.vercel.app">ApeX Raffle House</a>
-  - Payment method
-    - $SOL, $PREY (SPL token)
-  - Reward Type
-    - Receive NFT, WL spots(max: 50), Reward Token
-- Official Links:
-  - Linktree: <a href="https://linktr.ee/ApexPredatorsSOL">Apex Predator | Linktree</a>
-  - Website: <a href="https://home.apexpredator.army">Apex Predator</a>
-  - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Apex-Raffle">Apex-Raffle</a>
-
-<h3><u><strong>Auction House</strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
-
-This is the auction platform that users can bid with several 💵spl-tokens and the highest bidder(winner) will be receive the NFT.
-
-- Link: <a href="https://auction-doge.vercel.app/auction">Doge Auction</a>
-- Online link: <a href="https://mausoleum.tombstoned.xyz">The Mausolem Auction</a>
-  - Payment method
-    - SOL, Various SPL tokens
-  - Reward Type
-    - NFT
-- Official Links:
-  - Website: <a href="https://www.thedogecapital.com">Doge Capital:</a>
-  - Staking: <a href="https://staking.thedogecapital.com">Doge Capital NFT Staking:</a>
-  - CoinFlip: <a href="https://degencoinflip.com/dogecapital">Degen Coin Flip:</a>
-  - Twitter: <a href="https://twitter.com/thedogecapital">Doge Capital:</a>
-- Github repo: <a href="https://github.com/best-lucky1030/auction-doge">auction-doge</a>
-  - Project Structure:
-    - Auction contract, Api, Front-end
-
 <h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
 <hr />
 
@@ -286,52 +188,6 @@ Now we are adding more features for Nanas.
   (Current Staking is updating.... so It's down now)
   
 - Git repo: <a href="https://github.com/best-lucky1030/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
-
-<h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
-
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 
-    - 1500-2000 / 1 WWV, 
-    - 1000-1499 / 1.5$WWV, 
-    - 600-999 / 2WWV, 
-    - 300-599 / 2.5 WWV, 
-    - 200-299 / 3WWV, 
-    - 51-199 / 4 WWV, 
-    - 1-50 / 5 WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/best-lucky1030/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
-
-<h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/166076634-5edc5fdc-ac4f-4567-83ad-271a376885c9.png">
-
-This is the traditional NFT staking project. Users stake their TAC NFTs and receive 🍌$GBA token.
-
-- Link: <a href="https://aurora-staking.vercel.app" target="_blank">TAC NFT Staking</a>
-- Live link: <a href="https://www.apearena.online">TAC Staking</a>
-  - You can stake your TAC NFT.
-  - You will receive reward as 🍌$GBA calculated by 25 days.
-- Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
-- Github repo: <a href="https://github.com/best-lucky1030/Aurora-staking" target="_blank">Aurora-staking</a>
-
-<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/172245168-9c3f0996-a56b-447a-a45b-54fae3c88853.png">
-
-IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
-
-Now I am working on this project and we are releasing this in Apirl.
-
-- Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
-- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/best-lucky1030/IconFashion" target="_blank">IconGirl</a>
 
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -355,4 +211,3 @@ Now I am working on this project and we are releasing this in Apirl.
 - $PARTS token: <a href="https://solscan.io/token/2PcxBC6AZXPTadHWwBdxcnkrdJVmoGZ2raMLstDQcpJk" target="_blank">$PARTS token</a>
 - You can find me at Team member page name is `Venture` as `Dev, Tokenomics and Integration's` <a href="https://www.solspacemen.com/meet-the-team-1" target="_blank">here</a>
 - Git repo: <a href="https://github.com/best-lucky1030/token-list" target="_blank">Space Parts</a>
-
