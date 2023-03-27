@@ -120,6 +120,14 @@ to the adept who may Want to explore another exciting opportunity.
 Many goals have been established and steps towards ours and the overall community goal of safety for users ,
 positive reinforcement with engaging and understanding members !
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <img align="right" width="300px" src="https://i.ibb.co/WPYmqqh/Theshinyapes.png" alt="Theshinyapes" border="0">
 - Original Link: <a href="https://www.theshinyapes.com" target="_blank">The Shiny APES</a>
 
