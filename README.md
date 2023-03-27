@@ -108,6 +108,16 @@ Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
 - Github repo: <a href="https://github.com/best-lucky1030/Dwarves-staking" target="_blank">Dwarves-staking</a>
 - KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
+ 
+<h3><u><strong><i>The Shiny APES</i></strong></u> &nbsp;(ETHEREUM)</h3>
+<hr />
+
+A Digital art also known as a Non Fungible Token (NFT) is the foundation of the project. Our goal involves Building the community and communications between other creators and their members further increasing the bond of trust within thr crypto space ! We are extremely excited to be bridging the gap between those who have never had an experience with crypto all the way up to the adept who may Want to explore another exciting opportunity. Many goals have been established and steps towards ours and the overall community goal of safety for users , positive reinforcement with engaging and understanding members !
+
+<img align="right" width="300px" src="https://i.ibb.co/WPYmqqh/Theshinyapes.png" alt="Theshinyapes" border="0">
+- Original Link: <a href="https://www.theshinyapes.com" target="_blank">Kingdom of Dwarves</a>
+ 
+ 
 <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
