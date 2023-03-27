@@ -127,14 +127,9 @@ positive reinforcement with engaging and understanding members !
 <br />
 <br />
 <br />
-<br />
 
 - Original Link: <a href="https://www.theshinyapes.com" target="_blank">The Shiny APES</a>
 
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
